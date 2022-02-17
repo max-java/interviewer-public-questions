@@ -16,4 +16,4 @@ According to the OOP paradigm, a program consists of objects that exchange messa
 Objects can have state, the only way to change the state of an object is to send it a message, in response to which,
 an object can change its own state.
 
-![meta](https://img.shields.io/badge/_meta-red.svg)    ![id](https://img.shields.io/badge/_id-null-red.svg)    ![locale_key](https://img.shields.io/badge/key-22c6bd811392459fa10f14dcf6c2b583-yellow.svg)    ![template_name](https://img.shields.io/badge/simple_question-v.0.1-yellow.svg)
+![meta](https://img.shields.io/badge/_meta-red.svg)    ![id](https://img.shields.io/badge/_id-620ec582df4fce081fc88af3-red.svg)    ![locale_key](https://img.shields.io/badge/key-22c6bd811392459fa10f14dcf6c2b583-yellow.svg)    ![template_name](https://img.shields.io/badge/simple_question-v.0.1-yellow.svg)
